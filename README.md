@@ -24,4 +24,4 @@ It is possible to get the location of the suppliers by their address and visuali
 ### Revenue Development Curve
 Instead of the Geo Location of each of the suppliers, it is also possible to only visualize their development by revenue over the years (from 2015 until 2018): 
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~lenlehm/9.embed" height="525" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~lenlehm/9.embed&ampembedded=true" height="525" width="100%"></iframe>

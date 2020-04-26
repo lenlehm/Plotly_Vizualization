@@ -17,11 +17,11 @@ After you run all of them, it should be possible to run each cell in the jupyter
 ### Germany Map
 It is possible to get the location of the suppliers by their address and visualize it on the map of Germany. The bubble sizes represent their respective revenue in 2018 in mio EUR.
 
-![Map Germany]("https://plotly.com/~lenlehm/13.embed")
+![Map Germany](https://plotly.com/~lenlehm/13.embed)
 
-![New Try]("https://plotly.com/~lenlehm/13/#/")
+![New Try](https://plotly.com/~lenlehm/13/#/)
 
-![Lastly]("image.PNG")
+![Lastly](image.PNG)
 
 
 ### Revenue Development Curve

@@ -25,4 +25,9 @@ Instead of the Geo Location of each of the suppliers, it is also possible to onl
 
 ![Revenue Development](revenue.PNG)
 
+### Revenue Development Curve - Radial
+To use a different chart and display the Revenue from each firm, 
+it is also neat to use a Radial Plot, that can even be used with many more than 20 entries. (from 2015 until 2018):
+
+![Revenue Development Radial](Radial.PNG)
 
